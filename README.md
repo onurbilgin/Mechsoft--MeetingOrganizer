@@ -1,4 +1,4 @@
-<h1>Meeting-Organizer</h1>
+<h1>MeetingOrganizer</h1>
 <p>Müşteriler ile yapılacak toplantıların kaydedilebileceği, güncellenebileceği ve silinebileceği bir tek sayfa uygulaması ve Client uygulaması tarafından gönderilen / çağrılan verileri işleyecek WEB API Backend.</p>
 <p>Proje'nin Client tarafını React JS ile geliştirdim. Ardından Python Django ile Server tarafından WEB API geliştirip bağladım.</p>
 <h3></h3> Projeyi başarıyla çalıştırmak için öncelikle Django WEB API kısmının çalıştırılıp ardından React tarafını çalıştırmalısınız!</h3>
