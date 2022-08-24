@@ -24,6 +24,7 @@ Ardından projeyi çalıştırın. <br>
 npm start </p>
 
 <p>Proje Resimleri</p>
+
 ![home](https://user-images.githubusercontent.com/67693591/186419884-533589c8-cfe9-4073-82ed-a911e4172f2f.png) 
 
 ![duzenle](https://user-images.githubusercontent.com/67693591/186420044-51b8024f-106e-421c-a7c6-cb809c0ad658.png)
